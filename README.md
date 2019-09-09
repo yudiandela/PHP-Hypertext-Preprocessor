@@ -10,9 +10,9 @@ Saat tulisan ini dibuat versi PHP yang terbaru adalah `PHP 7.3`, jadi jika anda 
 
 ### Dasar PHP
 
-- [Cara Install PHP](https://github.com/yudiandela/PHP-Hypertext-Preprocessor/tree/master/Basic/InstallPHP)
-- [Mengetahui Sintaks PHP](https://github.com/yudiandela/PHP-Hypertext-Preprocessor/tree/master/Basic/SintaksPHP)
-- [Cara Memberikan Komentar](https://github.com/yudiandela/PHP-Hypertext-Preprocessor/tree/master/Basic/MemberiKomentar)
+- [Cara Install PHP](https://github.com/yudiandela/PHP-Hypertext-Preprocessor/tree/master/Basic/1.%20Install%20PHP)
+- [Mengetahui Sintaks PHP](https://github.com/yudiandela/PHP-Hypertext-Preprocessor/tree/master/Basic/2.%20Sintaks%20PHP)
+- [Cara Memberikan Komentar](https://github.com/yudiandela/PHP-Hypertext-Preprocessor/tree/master/Basic/3.%20Komentar%20PHP)
 - Mengenal Variabel PHP
 - Menampilkan teks menggunakan echo / print
 - Mengenal Data Tipe PHP
