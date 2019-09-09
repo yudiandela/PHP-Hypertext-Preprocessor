@@ -10,7 +10,7 @@ Saat tulisan ini dibuat versi PHP yang terbaru adalah `PHP 7.3`, jadi jika anda 
 
 ### Dasar PHP
 
-- Cara Install PHP
+- [Cara Install PHP](https://github.com/yudiandela/PHP-Hypertext-Preprocessor/tree/master/Basic/InstallPHP)
 - Mengetahui Sintaks PHP
 - Cara Memberikan Komentar
 - Mengenal Variabel PHP
