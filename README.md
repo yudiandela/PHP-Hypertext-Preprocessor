@@ -14,7 +14,7 @@ Saat tulisan ini dibuat versi PHP yang terbaru adalah `php7.3`, jadi jika anda m
 - [Mengetahui Sintaks PHP](https://github.com/yudiandela/PHP-Hypertext-Preprocessor/tree/master/Basic/2.%20Sintaks%20PHP)
 - [Cara Memberikan Komentar](https://github.com/yudiandela/PHP-Hypertext-Preprocessor/tree/master/Basic/3.%20Komentar%20PHP)
 - [Mengenal Variabel PHP](https://github.com/yudiandela/PHP-Hypertext-Preprocessor/tree/master/Basic/4.%20Variabel%20PHP)
-- Menampilkan teks menggunakan echo / print
+- [Menampilkan teks menggunakan echo / print](https://github.com/yudiandela/PHP-Hypertext-Preprocessor-Tutorial-Indonesia/tree/master/Basic/5.%20Echo%20dan%20Print%20PHP)
 - Mengenal Data Tipe PHP
 - String di PHP
 - Numeric di PHP
