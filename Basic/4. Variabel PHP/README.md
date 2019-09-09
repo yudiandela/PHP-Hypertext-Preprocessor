@@ -15,9 +15,11 @@ contoh :
 
 ```
 <?php
+
 $text = "Hello world!";
 $angka = 5;
 $koma = 10.5;
+
 ?>
 ```
 
@@ -48,6 +50,7 @@ echo $text;
 ```
 
 atau kita juga bisa menggabungkan sebuah variabel dengan text yang lain
+
 contoh :
 `output-variable-php-2.php`
 
