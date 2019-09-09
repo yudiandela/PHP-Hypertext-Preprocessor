@@ -4,7 +4,7 @@ Code PHP adalah code yang hanya dapat di eksekusi oleh server, dan akan mengemba
 
 ## Versi PHP
 
-Saat tulisan ini dibuat versi PHP yang terbaru adalah `PHP 7.3`, jadi jika anda mulai belajar PHP di sini maka di sarankan anda menginstall PHP versi `7.3` ke atas.
+Saat tulisan ini dibuat versi PHP yang terbaru adalah `php7.3`, jadi jika anda mulai belajar PHP di sini maka di sarankan anda menginstall PHP versi `php7.3` ke atas, tapi jika anda masih menggunakan versi `php5.6`, `php7.1`, `php7.2` itu juga tidak lah mengapa.
 
 ## Daftar Materi
 
