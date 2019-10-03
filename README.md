@@ -16,7 +16,7 @@ Saat tulisan ini dibuat versi PHP yang terbaru adalah `php7.3`, jadi jika anda m
 -   [Mengenal Variabel PHP](https://github.com/yudiandela/PHP-Hypertext-Preprocessor/tree/master/Basic/4.%20Variabel%20PHP)
 -   [Menampilkan teks menggunakan echo / print](https://github.com/yudiandela/PHP-Hypertext-Preprocessor-Tutorial-Indonesia/tree/master/Basic/5.%20Echo%20dan%20Print%20PHP)
 -   [Mengenal Data Tipe PHP](https://github.com/yudiandela/PHP-Hypertext-Preprocessor-Tutorial-Indonesia/tree/master/Basic/6.%20Tipe%20Data%20PHP)
--   String di PHP
+-   [String di PHP](https://github.com/yudiandela/PHP-Hypertext-Preprocessor-Tutorial-Indonesia/tree/master/Basic/7.%20String%20PHP)
 -   Numeric di PHP
 -   Penggunaan Constant di PHP
 -   Macam-macam Operator di PHP
